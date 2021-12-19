@@ -1,5 +1,5 @@
 package Practice;
-
+//Prog to demo how to traverse a hasmap using entryset
 import java.util.HashMap;
 import java.util.Scanner;
 public class first_non_repeating_letter {
