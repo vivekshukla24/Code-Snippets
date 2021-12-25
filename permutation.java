@@ -1,5 +1,6 @@
 package com.company;
 
+// Example for Permutations 
 public class permutation {
     public static void main(String[] args) {
         perm("","abc");
